@@ -1,4 +1,5 @@
-# EX 10 OPENING AND CLOSING
+# EX-10
+# OPENING AND CLOSING
 ## Aim
 To implement Opening and Closing using Python and OpenCV.
 ## Software Required
@@ -11,10 +12,9 @@ To implement Opening and Closing using Python and OpenCV.
 - Step4: Similarly, perform closing operation and display the result
 - 
 ## Program:
-```
-NAME: Ashwin Kumar S
-REG.No:212222240013
-``` 
+### NAME: Ashwin Kumar S
+### REG.No:212222240013
+
 # Import the necessary packages
 ```
 import numpy as np
